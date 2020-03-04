@@ -4,7 +4,7 @@ Emulador del clasic piano casio, con arduino y comunicación con interfaz de pro
 
 ## Integrantes del equipo
 - Marcelo Luna Diaz  @mlunad88
-- Ángel Sanz Díaz 
+- Ángel Sanz Díaz  @angelsanzdiaz
 
 ## Objetivos del trabajo
 
