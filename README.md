@@ -1,6 +1,6 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Emulador del clasic piano casio, con arduino y comunicación con interfaz de processing.
 
 ## Integrantes del equipo
 - Marcelo Luna Diaz  @mlunad88
@@ -8,4 +8,4 @@ Descripción breve del proyecto a realizar (2-3 frases).
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+El proyecto consiste en realizar un piano con arduino con el cual se pueda tanto seleccionar canciones 'demo' como tocar teclas, en este caso, botones, los cuales aparecen indicados en nuestra interfaz de processing y esto se guardará en un fichero indicando nota y duración
