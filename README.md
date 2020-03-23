@@ -10,6 +10,11 @@ Emulador del clasic piano casio, con arduino y comunicación con interfaz de pro
 
 El proyecto consiste en realizar un piano con arduino con el cual se pueda tanto seleccionar canciones 'demo' como tocar teclas, en este caso, botones, los cuales aparecen indicados en nuestra interfaz de processing y esto se guardará en un fichero indicando nota y duración
 
-## Relación de actuadores
+## Sensores y actuadores
 
-Los elementos a usar serán un arduino con el que se establecerá comunicación con un pc, una serie de botones emulando teclas, los correspondientes cables de conexión y un buzzer con el cual escucharemos las melodías y notas que se deseen pulsar.
+Los sensores que utilizaremos son:
+* 12 pulsadores que serán las teclas de nuestro prototipio de piano
+* El teclado del PC
+Los actuadores serán:
+* Zumbador (para escuchar la salida de audio)
+* LEDs opcionales de funcionamiento y/o fallo del sistema
