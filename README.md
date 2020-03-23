@@ -15,6 +15,7 @@ El proyecto consiste en realizar un piano con arduino con el cual se pueda tanto
 Los sensores que utilizaremos son:
 * 12 pulsadores que serán las teclas de nuestro prototipio de piano
 * El teclado del PC
+
 Los actuadores serán:
 * Zumbador (para escuchar la salida de audio)
 * LEDs opcionales de funcionamiento y/o fallo del sistema
