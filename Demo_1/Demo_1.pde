@@ -1,3 +1,4 @@
+//Versión prueba preliminar
 int pantalla = 0;
 import processing.serial.*;
 Serial arduino;
