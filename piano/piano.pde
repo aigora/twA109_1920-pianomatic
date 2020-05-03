@@ -1,3 +1,4 @@
+//Programa Processing pianomatic
 int pantalla = 0;
 import processing.serial.*;
 Serial arduino;
